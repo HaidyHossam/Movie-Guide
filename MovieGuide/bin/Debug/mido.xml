@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfMovie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Movie>
+    <ID>12</ID>
+    <Title>ggg</Title>
+    <Year>2005</Year>
+    <Director>mai</Director>
+    <Rating>7</Rating>
+    <Poster>D:\Pictures\assassins-creed.jpg</Poster>
+    <Genres>
+      <Genree>
+        <nameofgenre>Adventure</nameofgenre>
+      </Genree>
+      <Genree>
+        <nameofgenre>Action</nameofgenre>
+      </Genree>
+    </Genres>
+  </Movie>
+  <Movie>
+    <ID>879</ID>
+    <Title>gh</Title>
+    <Year>2006</Year>
+    <Director>mia</Director>
+    <Rating>5</Rating>
+    <Poster>D:\Pictures\51e5e6e4e7116b8a3cef9787826d17a8.jpg</Poster>
+    <Genres>
+      <Genree>
+        <nameofgenre>Adventure</nameofgenre>
+      </Genree>
+      <Genree>
+        <nameofgenre>Action</nameofgenre>
+      </Genree>
+    </Genres>
+  </Movie>
+</ArrayOfMovie>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfDirector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Director>
+    <Name>hend</Name>
+  </Director>
+  <Director>
+    <Name>mai</Name>
+  </Director>
+  <Director>
+    <Name>hala</Name>
+  </Director>
+  <Director>
+    <Name>mia</Name>
+  </Director>
+  <Director>
+    <Name />
+  </Director>
+</ArrayOfDirector>
